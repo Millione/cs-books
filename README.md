@@ -3,16 +3,12 @@ Thanks the authors who wrote the following books.
 
 ## C
 
-* C程序设计语言 
-* C Primer Plus 
+* [C程序设计语言](https://book.douban.com/subject/1139336/) 
 
 
 ## C++
 
-* C++ Primer 
-* STL源码剖析 
-* Effective C++ 
-* More Effective C++ 
+* [C++ Primer](https://book.douban.com/subject/25708312/)
 
 
 ## Go
@@ -22,16 +18,14 @@ Thanks the authors who wrote the following books.
 
 ## Java
 
-* Java编程思想 
-* 深入理解Java虚拟机 
-* Effective Java 
-* 阿里巴巴Java开发手册 
+* [Java编程思想](https://book.douban.com/subject/2130190/) 
+* [深入理解Java虚拟机](https://book.douban.com/subject/34907497/)
 
 
 ## Python
 
-* Python编程-从入门到实践 
-* 流畅的Python 
+* [Python编程-从入门到实践](https://book.douban.com/subject/35196328/) 
+* [流畅的Python](https://book.douban.com/subject/27028517/) 
 
 
 ## Rust
@@ -45,16 +39,13 @@ Thanks the authors who wrote the following books.
 
 ## 计算机导论
 
-* 计算机系统概论 
-* 计算机程序的构造和解释 
-* 深入理解计算机系统 
+* [计算机程序的构造和解释](https://book.douban.com/subject/1148282/)
+* [深入理解计算机系统](https://book.douban.com/subject/26912767/) 
 
 
 ## 操作系统
 
-* 现代操作系统 
-* Unix环境高级编程 
-* Linux内核设计与实现 
+* [操作系统导论](https://book.douban.com/subject/33463930/) 
 
 
 ## 计算机网络
